@@ -1,5 +1,5 @@
 #--Main----#
-git+https://github.com/MKN-BOTZ/pyrogram
+pyrogram
 tgcrypto
 aiofiles
 aiohttp
