@@ -15,7 +15,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: 4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://gplinks.co/a5AcA>Mila</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/Mila_Movies_Bot>Mila</a>
 
 <b>ᴅᴇᴠ: <a herf=https://t.me/Prime_Alok>Alok</a></b>"""
 
